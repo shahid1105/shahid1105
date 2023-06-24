@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahid Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-
-<img align="right" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fprogrammer-gifs&psig=AOvVaw0PPVGMZKeK3MrjndoiMNNm&ust=1687724814763000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDG-oHf3P8CFQAAAAAdAAAAABAE" alt="coding">
+![CircularFlakyLadybird-max-1mb](https://github.com/shahid1105/shahid1105/assets/118123387/d8b61af9-00b4-4074-8de6-d50fbb0ec78e)
 
 - 📫 How to reach me **shahidhasan1105@gmail.com**
 
