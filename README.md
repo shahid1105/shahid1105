@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahid Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-![CircularFlakyLadybird-max-1mb](https://github.com/shahid1105/shahid1105/assets/118123387/d8b61af9-00b4-4074-8de6-d50fbb0ec78e)
 
 - 📫 How to reach me **shahidhasan1105@gmail.com**
 
